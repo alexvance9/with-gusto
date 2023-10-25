@@ -1,7 +1,31 @@
 # With Gusto
 ## A food blog with music, a music blog with food
-### Dedicated to my idol, one Jonathan Richman.
+### Dedicated to my musical paramour, one Jonathan Richman.
 
+## Concept!
+
+With Gusto will be a blog dedicated to all of the things I love (with gusto), namely food, cooking, friendship, music, poetry, and Jonathan Richman, with room for potential random musings. I want to record the things that make my life great, and celebrate the people I think are great. It will be design-forward and colorful and weird, just like me. Sometimes I will interview friends and ask them about a recipe they love, when they cook it, and what they listen to while they're doing it. 
+
+## Features!
+- A cool, colorful, but *tasteful* home page
+    - It has a logo and navigation to a recipes-only page, and an about page (which will maybe also serve as a portfolio? why not)
+    - It has a hero-ish section at the top of the page describing what the heck is going on here.
+    - There are cute "cards" which link to the posts, the most recent post will be a larger card. Maybe I want these to all be different colors a la the "Girls" title cards. They will also have a picture on them. 
+    - Maybe a "featured recipe" section that loops through recipes?
+    - Somehow I'd like to include the poem. Maybe on the left side in the background? MAYBE
+
+- Each blog post will be a separate page, the url can be the slugged title. 
+    - In my dreams, I'd like the post pages to have different colored backgrounds and font, matching the cards on the home page. Or maybe the font just switches black/white depending on the bg contrast.  
+    - There will be a hero image for each post at the top, with optional additional photos sprinkled through the article.
+    - If it's a recipe/cooking post, the recipe will be linked.  
+    - If it's a friend interview, there might be a Spotify playlist embed.
+
+- The recipe page will have a list of all recipes. 
+    - Each recipe will have ONLY the recipe with a short headnote, because no one likes weding through someones life story to get to the damn recipe amirite?
+    - Recipe page aesthetics tbd. 
+    - Comments tbd.
+
+- There will be an "about" page, and it will have a contact form for people to send in their musings.
 
 
 Hello Everyone, it's time for poetry
